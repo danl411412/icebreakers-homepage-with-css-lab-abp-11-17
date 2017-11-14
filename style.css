@@ -63,5 +63,6 @@ div.jumbotron {
 }
 
 .jumbotron h1{
-  font-size: 60px;
+  font-size: 100px;
+  color:red;
 }
