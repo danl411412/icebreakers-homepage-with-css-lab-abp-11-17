@@ -47,6 +47,10 @@ h3#header {
   text-decoration: none;
 }
 
+#header a:hover {
+  text-decoration: underline;
+}
+
 main {
   margin-top: 20px;
 }
